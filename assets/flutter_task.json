@@ -1,0 +1,88 @@
+{
+    "addresses": [
+        {
+            "id": 1,
+            "title": "Home Address",
+            "city": "Mustafa St. No:2",
+            "street": "Street x12",
+            "image": "assets/images/cat1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Office Address",
+            "city": "Axis Istanbul, B2 Blok",
+            "street": "Floor 2, Office 11",
+            "image": "assets/images/cat2.jpg"
+        }
+    ],
+    
+    "categories": [
+        {
+            "id": 1,
+            "name": "Steak",
+            "image": "assets/images/cat1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Vegetables",
+            "image": "assets/images/cat2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Beverages",
+            "image": "assets/images/cat3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Fish",
+            "image": "assets/images/cat4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Juice",
+            "image": "assets/images/cat5.jpg"
+        }
+    ],
+ 
+
+    "products": [
+        {
+            "id": 1,
+            "title": "Summer Sun Ice ",
+            "quantity": 5,
+            "shipping": "15 Minutes Away",
+            "image": "assets/images/pro1.jpg",
+            "price": 18,
+            "special": 12
+        },
+        {
+            "id": 2,
+            "title": "Ice Cream",
+            "quantity": 10,
+            "shipping": "10 Minutes Away",
+            "image": "assets/images/pro2.jpg",
+            "price": 15,
+            "special": 10
+        },
+        {
+            "id": 3,
+            "title": "New product",
+            "quantity": 7,
+            "shipping": "30 Minutes Away",
+            "image": "assets/images/cat3.jpg",
+            "price": 25,
+            "special": 18
+        },
+        {
+            "id": 4,
+            "title": "New product",
+            "quantity": 6,
+            "shipping": "20 Minutes Away",
+            "image": "assets/images/cat4.jpg",
+            "price": 30,
+            "special": 17
+        }
+ 
+    ]
+  
+}
